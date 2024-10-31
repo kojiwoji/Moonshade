@@ -1,1 +1,11 @@
 
+Project: Moonshade
+Layout: Container, Three Section
+Content:
+	Main:
+		Short Introduction
+	Browse:
+		Sort by genre
+		Status
+		Display a grid(5x3)
+	Inside the selected scenario you can see the title, chapters, Status, Genre. Second section of the content are a button to get all the chapters in a grid(2x50, if there are more then have serachbar and a selection bar), then there is summary below, then tags.

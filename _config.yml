@@ -15,3 +15,4 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  
